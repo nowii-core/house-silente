@@ -1,0 +1,13 @@
+CASA SILENTE - horror in prima persona (HTML/CSS/JS, nessuna installazione)
+
+AVVIO: estrai lo zip e fai doppio clic su index.html (Chrome, Edge o Firefox aggiornati).
+Serve WebGL2. Se va a scatti: Opzioni > Qualita' grafica > Bassa/Media.
+
+COMANDI: WASD muoviti, Mouse guarda, Shift corri (il mostro ti sente), C abbassati,
+F torcia, E interagisci/apri/nasconditi (armadi), Clic sinistro spara, G rileggi lavagna,
+Tab obiettivi, Esc pausa.
+
+REGOLE: 5 giorni. Se il mostro ti cattura finisci nella cella (trova la chiave negli
+armadietti) e passa un giorno. Giorno 5 catturato = hai perso, si ricomincia.
+Vinci scappando (chiave d'ingresso nascosta -> porta a ovest) oppure uccidendo il mostro
+(pistola nascosta). Gli appunti indicano dove cercare. La casa cambia a ogni partita.
