@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏚️ Casa Silente
+#  Casa Silente
 
 ### A First-Person 3D Survival Horror Game — Built From Scratch in Pure JavaScript & WebGL2
 
@@ -19,7 +19,7 @@
 The entire game — a custom 3D engine, physically based rendering, procedural textures, 3D models and a synthesized horror soundtrack — is written in **vanilla HTML, CSS and JavaScript**. There are **no frameworks, no libraries, no external assets, no installation and no server**. Download, double-click `index.html`, play.
 
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="screenshots/gameplay1.png" width="48%" alt="Gameplay 1" />
@@ -67,7 +67,7 @@ The entire game — a custom 3D engine, physically based rendering, procedural t
 | `Tab` | Show objectives |
 | `Esc` | Pause / Options |
 
-> 🎧 **Headphones and a dark room strongly recommended.**
+>  **Headphones and a dark room strongly recommended.**
 
 ## Quick Start
 
@@ -176,6 +176,6 @@ This project is released under the **MIT License** — you are free to use, copy
 
 <div align="center">
 
-**If you enjoyed the game, leave a ⭐ on the repository — and don't turn the lights off. They will.**
+**If you enjoyed the game, leave a  on the repository — and don't turn the lights off. They will.**
 
 </div>
