@@ -38,7 +38,14 @@ The entire game — a custom 3D engine, physically based rendering, procedural t
 
 ## Preview
 
-![Casa Silente Screenshot](Screenshot-1.png)
+<p align="center">
+  <img src="screenshots/gameplay1.png" width="48%" alt="Gameplay 1" />
+  <img src="screenshots/gameplay2.png" width="48%" alt="Gameplay 2" />
+</p>
+<p align="center">
+  <img src="screenshots/gameplay3.png" width="48%" alt="Gameplay 3" />
+  <img src="screenshots/gameplay4.png" width="48%" alt="Gameplay 4" />
+</p>
 
 > **Live Demo:** [nowii-core.github.io/house-silente/](https://nowii-core.github.io/house-silente/)
 
